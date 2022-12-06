@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Yass if u wanna slay, consectetur adipisicing elit. Accusantium deserunt adipisci maiores earum commodi, aut possimus voluptatem provident doloremque voluptate reprehenderit laboriosam ipsam ducimus fugit deleniti veniam libero, ut incidunt!
+            Naurr if u wanna slay, consectetur adipisicing elit. Accusantium deserunt adipisci maiores earum commodi, aut possimus voluptatem provident doloremque voluptate reprehenderit laboriosam ipsam ducimus fugit deleniti veniam libero, ut incidunt!
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
