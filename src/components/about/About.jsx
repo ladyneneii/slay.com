@@ -35,12 +35,13 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon"/>
               <h5>Projects</h5>
-              <small>50+ Completed</small>
+              <small>69+ Completed</small>
             </article>
           </div>
 
           <p>
-            STAWp if u wanna slay, test adipisicing elit. Accusantium deserunt adipisci maiores earum commodi, aut possimus voluptatem provident doloremque voluptate reprehenderit laboriosam ipsam ducimus fugit deleniti veniam libero, ut incidunt!
+STAWp if u wanna slay, test adipisicing elit. Accusantium deserunt adipisci maiores earum commodi, aut possimus voluptatem provident doloremque voluptate reprehenderit laboriosam ipsam ducimus fugit deleniti veniam libero, ut incidunt!
+
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
